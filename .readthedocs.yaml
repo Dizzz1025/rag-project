@@ -6,7 +6,7 @@ build:
     python: "3.10"
 
 mkdocs:
-  configuration: rag_project/mkdocs.yml   # 告诉 RTD 使用哪个配置文件
+  configuration: mkdocs.yml   # 告诉 RTD 使用哪个配置文件
 
 #python:
 #  install:
